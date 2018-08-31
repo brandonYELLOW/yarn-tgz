@@ -1,0 +1,12 @@
+{
+  "name": "yarn-tgz",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "file:./@typescript-3.0.1.tgz"
+  }
+}
